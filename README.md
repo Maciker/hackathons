@@ -1,4 +1,4 @@
-# Hackathon Projects
+# Hackathons
 
 An index of my geospatial projects for hackathons and technical experiments. Each project has its own repository, which is the source of truth for its code, roadmap, evaluation, and current status.
 
@@ -8,7 +8,7 @@ An index of my geospatial projects for hackathons and technical experiments. Eac
 
 A TypeScript-first benchmark for comparing a majority baseline with a JavaScript Random Forest under random and spatial evaluation.
 
-**Current state:** The balanced-accuracy kernel and a known-result test are in place. Dataset, features, folds, model adapter, experiment runner, and map remain on the roadmap.
+**Current state:** The TypeScript pipeline, CLI run/replay, a LUCAS Spain 2022 extract, and an offline MapLibre explorer are in place.
 
 [Open the Spatial ML Benchmark repository](https://github.com/Maciker/spatial-ml-benchmark)
 
